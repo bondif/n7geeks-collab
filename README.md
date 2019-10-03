@@ -4,7 +4,7 @@ This repository was created in this workshop : https://www.facebook.com/events/9
 We've also discovered ways to collaborate using Git/Github.   
 Big thanks to everyone who created their first Pull Request in this repo.
 
-Presentation is [Google Slide](https://bit.ly/2pvn7Jr)
+Presentation is in [Google Slides](https://bit.ly/2pvn7Jr)
 
 # Contributors (by order of contribution)
 - [A-Annan](https://github.com/A-Annan)
